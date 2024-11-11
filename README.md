@@ -36,7 +36,18 @@
 </a>&nbsp;&nbsp;
 </p>
 
-## Technology Stack 💻
+
+<h3 align="left">About:</h3>
+<p align="center">
+  👋 A Full-Stack Developer with a passion for creating scalable, impactful web applications that solve real-world problems. With expertise across both front-end and back-end technologies, I thrive in translating ideas into efficient, user-focused solutions.
+
+🚀 My Approach: Every project I undertake is an opportunity to build something valuable and meaningful. From a seamless user experience to a robust, well-architected backend, I aim to deliver code that is both scalable and maintainable. My goal is to build applications that make life easier for users, drive business goals, and optimize performance.
+
+🔄 Collaboration & Agile Mindset: I enjoy working with cross-functional teams, whether it's in an Agile environment or on fast-paced, high-impact projects. Working collaboratively has not only improved my technical skills but has also taught me the importance of empathy and communication in development.
+
+🌱 Lifelong Learner: Technology never stops evolving, and neither do I. I stay updated on industry trends, constantly learning new frameworks, tools, and practices to enhance my work. Whether it’s cloud solutions, DevOps tools, or UI/UX improvements, I’m committed to continuous growth.
+</p><hr> <br>
+<h3>Technology Stack 💻</h3>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
